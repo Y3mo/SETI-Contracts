@@ -1,6 +1,6 @@
 {
     "spec_version"  : "v1.2",
-    "$kref"         : "#/ckan/kerbalstuff/17",
+    "$kref"         : "#/ckan/spacedock/17",
     "$vref"         : "#/ckan/ksp-avc",
     "identifier"    : "SETI-Contracts",
     "x_netkan_license_ok" : true,
